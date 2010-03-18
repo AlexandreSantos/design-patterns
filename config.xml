@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Document : config.xml
+Created on : March 3, 2010, 10:12 AM
+Author : alexandre
+Description:
+Purpose of the document follows.
+-->
+
+<root>
+    <database1>
+        <dns>mysql:host=mysql.awu.com.br;dbname=awu</dns>
+        <user>awu</user>
+        <passwd>d25m090</passwd>
+    </database1>
+    <database2>
+        <dns>mysql:host=mysql.awu.com.br;dbname=awu01</dns>
+        <user>awu01</user>
+        <passwd>d25m090</passwd>
+    </database2>
+</root>
